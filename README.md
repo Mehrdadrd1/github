@@ -1,2 +1,3 @@
 # github
- learning github-project by Jadi
+newline
+learning github by Jadi
