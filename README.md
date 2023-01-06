@@ -1,2 +1,2 @@
 # github
-Learning github by Jadi
+learning github-project by Jadi
